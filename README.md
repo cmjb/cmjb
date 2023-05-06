@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am a full time PHP (+Laravel) + App Developer working for a company.
+- I run my own Kubernetes instance online for personal use. It currently powers cmjb.dev.
+- I write in a plethora of languages, mainly PHP, Javascript, Typescript, C# and Java.
+- I love writing low level languages when I get the opportunity to. (Rust, C, C++, ARMV7)
+- I mainly focus on webdev.
+
 <!--
 **cmjb/cmjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
